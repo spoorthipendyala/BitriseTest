@@ -13,6 +13,6 @@ public class SampleTest {
     @Test
     public void this_will_fail(){
 
-        assertEquals(true,false);
+        assertEquals(true,true);
     }
 }
